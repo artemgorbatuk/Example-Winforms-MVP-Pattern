@@ -1,1 +1,3 @@
-# Example-Winforms-MVP-Pattern
+## Задача
+
+Создать приложение с CRUD операциями используя Model-View-Presenter шаблон
